@@ -34,7 +34,7 @@ module.exports = {
 
             return message.reply(data.message);
         } catch (error) {
-            return message.reply("moye moye🥹");
+            return message.reply("🥹error, contact MahMUD");
         }
     }
 };
