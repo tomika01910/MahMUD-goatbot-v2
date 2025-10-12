@@ -16,7 +16,7 @@ module.exports = {
     author: "MahMUD",
     category: "anime",
     guide: {
-      en: "Use {pn} to get a random Bankai video."
+      en: "Use {pn} to get a random onepiece video."
     }
   },
 
