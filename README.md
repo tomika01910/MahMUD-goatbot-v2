@@ -20,21 +20,19 @@
     <img alt="license" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
 </p>
 
----
+<hr>
 
-<p align="center">
-The original author of this Bot is <strong>Ntkhang</strong>. This fork is maintained by: <strong>Sakib</strong>
-</p>
+<div align="center">
+<p>The original author of this Bot is <strong>Ntkhang</strong>. This fork is maintained by: <strong>Sakib</strong></p>
+
+<p>If you find any issues, please report them!</p>
+</div>
 
 <!-- হেডার এবং GIF -->
 <h2 align="center">🚀 The Supreme Messenger Bot Experience</h2>
 
 <p align="center">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="bot animation">
-</p>
-
-<p align="center">
-If you find any issues, please report them!
 </p>
 
 <div align="center">
