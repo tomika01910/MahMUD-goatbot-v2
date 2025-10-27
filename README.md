@@ -1,46 +1,48 @@
-<img
-src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
-  Goat Bot - Bot Chat Messenger
+  <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner" width="600">
 </h1>
+
+<!-- Support Group উপরে -->
+<div align="center" style="margin-bottom: 20px;">
+  <p style="font-size: 24px; font-weight: bold; color: #ff4500;">
+    💬 Join Support Group: 
+    <a href="https://m.me/j/AbaQ4b1Z9VJW7eIv/" style="color: #ff4500; text-decoration: underline;">Click Here</a>
+  </p>
+</div>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v16.20.0">
 		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
 	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
+    <img alt="size" src="https://img.shields.io/badge/repo-size-lightgrey?style=flat-square">
+    <img alt="code-version" src="https://img.shields.io/badge/code%20version-v1.0-brightgreen?style=flat-square">
+    <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=Sakib.Goat-Bot-V2">
+    <img alt="license" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
 </p>
 
+---
 
+<p align="center">
+The original author of this Bot is <strong>Ntkhang</strong>. This fork is maintained by: <strong>Sakib</strong>
+</p>
 
-The original author of this Bot is Ntkhang. This fork is maintained by: MahMUD  
+<!-- হেডার এবং GIF -->
+<h2 align="center">🚀 The Supreme Messenger Bot Experience</h2>
 
+<p align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="bot animation">
+</p>
+
+<p align="center">
 If you find any issues, please report them!
-
-
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">Mah M UD</a></h3></div>
-
-<p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
 </p>
-<h5 align="center">
->🎀 Mah MUD
-</h5>
-
- 
 
 <div align="center">
-			<h3>Gmail:
-			<a href="mahmudx077@gmail.com" style="color: green;">MahMUDx7 </a>
-				<br>
-	𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">MahMUD</a></h3></div>
+<p>🌐 Facebook: <a href="https://www.facebook.com/share/1PUp54wzjf/" style="color: #1877f2;">Sakib</a></p>
+</div>
 
-<img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
-
+<h5 align="center">
+> 🎀 Sakib
+</h5>
 
 🔹Ariyan Mahmud
