@@ -2,7 +2,7 @@
 src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
+  <img src="https://imgur.com/a/molHPmE#8Pz0tNp" width="22px" alt="icon">
   Goat Bot - Bot Chat Messenger
 </h1>
 
